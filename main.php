@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Active City Administration</title>
+<link href="css/singlePageTemplate.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header> <a href="">
+    <h4 class="logo">ACTIVE CITY </h4>
+    </a>
+    <nav>
+      <ul>
+        <li><a href="main.php">HOME</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li><a href="user_login.php">REPORT</a></li>
+		<li><a href="officerpage.html">DEPARTMENT</a></li>
+        <li><a href="loginadmin.php">ADMIN</a></li>
+      </ul>
+    </nav>
+  </header>
+
+
+  <!-- About Section -->
+  <section class="about" id="about">
+    <h2 class="hidden">About</h2>
+    <p class="text_column">CMC<br>Christian Medical College and Hospital Vellore is a private, minority-run educational and research institute that includes a network of primary, secondary and tertiary care hospitals in and around Vellore, Tamil Nadu, India. </p>
+    <p class="text_column">VIT<br> formerly called Vellore Engineering College, is a private university in Tamil Nadu, India. Founded in 1984, as Vellore Engineering College, by G. Viswanathan, the institution offers 20 undergraduate, 34 postgraduate, four integrated and four research programs.</p>
+    <p class="text_column">The Golden Temple <br>complex of Sripuram is a spiritual park situated at the foot of a small range of green hills in a place known as "Malaikodi" in the city of Vellore in Tamil Nadu, India. Located 8km south of the city of Vellore at Thirumalaikodi, the golden temple's chief deity is 'Sri Lakshmi Narayani' </p>
+  </section>
+
+
+  <!-- More Info Section -->
+  <footer>
+    <article class="footer_column">
+      <h3>CMC</h3>
+      <a href="http://www.cmch-vellore.edu/"><img src="images/cmc-vellore-400x200.jpg" alt="" width="400" height="200" class="cards"/></a>
+      <p>The CMC has been consistently ranked among the top medical colleges in India. India Today ranked CMC the 1 Private Medical second after government hospital AIIMS in 2012,2013,2014,2015 and 2016. Outlook India ranked CMC top private medical school 2016.[30] Careers360 has ranked CMC Vellore first in Top Private Medical colleges in India in the year 2016.</p>
+    </article>
+    <article class="footer_column">
+       <h3>Golden Temple</h3>
+       <a href="https://en.wikipedia.org/wiki/Golden_Temple,_Sripuram"><img src="images/image_resize.jpg" alt="" width="400" height="200" class="cards"/></a>
+      <p>The salient feature of 'Sripuram' is the Lakshmi Narayani temple whose 'Vimanam’ and ‘Ardha Mandapam’ is covered with pure gold, housing the deity Sri Lakshmi Narayani who is installed inside. The temple is located on100 acres of land and has been constructed by the Vellore-based 'Sri Narayani Peedam', headed by spiritual leader 'Sri Sakthi Amma' also known as 'Narayani Amma'.</p>
+    </article>
+  </footer>
+
+  <footer>
+    <article class="footer_column">
+      <h3>V.I.T</h3>
+      <a href="http://vit.ac.in/"> <img src="images/Vellore Institute of Technology University VIT.jpg" alt="" width="400" height="200" class="cards"/></a>
+      <p>It is ranked first by Careers360's Top Private Universities in India 2017. The university was ranked 13th in engineering within India by the Ministry of Human Resource Development in its 2016 and 2017 rankings. National Media groups like India Today have ranked VIT University in the Top 10 Engineering Schools of India for several years.</p>
+    </article>
+    <article class="footer_column">
+       <h3>KINGSTON</h3>
+      <a href="http://www.kingston.ac.in/"> <img src="images/logo.jpg" alt="" width="400" height="200" class="cards"/></a>
+      <p>It is ranked 15th by Careers360's Top Private Universities in India 2017. The university was ranked 43th in engineering within India by the Ministry of Human Resource Development in its 2016 and 2017 rankings. National Media groups like India Today have ranked Kingston in the Top 100 Engineering Schools of India for several years.</p>
+    </article>
+  </footer>
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2017 - <strong>ACTIVE CITY ADMINISTRATION</strong></div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
